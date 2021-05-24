@@ -1,3 +1,8 @@
+# Tarea 3
+
+Link de la Tarea: http://mighty-spire-00900.herokuapp.com/
+Si se demora mucho en cargar o sale error en la aplicación de Heroku, recargar hasta que aparezca la pagina. El error es un timeout del servidor de Heroku pero eventualmente se carga la pagina.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
